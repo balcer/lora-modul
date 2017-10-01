@@ -1100,7 +1100,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 599354E5) (tstamp 599341A9)
-    (at 104.275 102.05)
+    (at 103.775 100.75)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /590C06CB)
@@ -1136,7 +1136,7 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 599353E5) (tstamp 599341AF)
-    (at 98.975 101.475 270)
+    (at 98.275 99.65 270)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /58FE861B)
@@ -1172,12 +1172,12 @@
   )
 
   (module Capacitors_SMD:C_0402 (layer F.Cu) (tedit 59935459) (tstamp 599341B5)
-    (at 100.825 102.175 180)
+    (at 100.15 100.275 180)
     (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0402")
     (path /58FE8878)
     (attr smd)
-    (fp_text reference C19 (at -1.575 0.075 180) (layer F.SilkS)
+    (fp_text reference C19 (at -1.725 0.575 180) (layer F.SilkS)
       (effects (font (size 0.3 0.3) (thickness 0.075)))
     )
     (fp_text value 3.3pF (at 0 1.27 180) (layer F.Fab) hide
@@ -1349,7 +1349,7 @@
   )
 
   (module Inductors_SMD:L_0402 (layer F.Cu) (tedit 5993553D) (tstamp 599341D3)
-    (at 102.375 103.175)
+    (at 101.65 102.55)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /58FE7A5E)
@@ -1382,7 +1382,7 @@
   )
 
   (module Inductors_SMD:L_0402 (layer F.Cu) (tedit 59935416) (tstamp 599341D9)
-    (at 100.825 100.925 180)
+    (at 100.15 98.975 180)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
     (path /58FE84F7)
